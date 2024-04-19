@@ -8,7 +8,5 @@
         <img src="./github-metrics.svg">
   <br>
 </p>
-![wakatime](https://wakatime.com/badge/user/018e142c-cc55-4830-822f-73ddb705675f.svg)](https://wakatime.com/@018e142c-cc55-4830-822f-73ddb705675f)
 
-
-
+<img src="https://wakatime.com/badge/user/018e142c-cc55-4830-822f-73ddb705675f.svg">
